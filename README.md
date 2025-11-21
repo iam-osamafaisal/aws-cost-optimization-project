@@ -27,5 +27,7 @@ CloudWatch triggers Lambda start/stop functions based on cron schedules.
 Frontend shows real-time service availability.
 Local scripts allow manual control.
 
-## Author
+🧑‍💻 Author
 Osama Faisal
+Cloud & DevOps Engineer Intern
+LinkedIn Profile
