@@ -26,6 +26,7 @@ This project automates EC2 cost optimization using AWS Lambda, CloudWatch Schedu
 CloudWatch triggers Lambda start/stop functions based on cron schedules.
 Frontend shows real-time service availability.
 Local scripts allow manual control.
+<img width="1898" height="971" alt="Screenshot 2025-11-20 235358" src="https://github.com/user-attachments/assets/b88bf371-f139-4d4d-9590-15c79a8f9f5c" />
 
 🧑‍💻 Author
 Osama Faisal
