@@ -2,6 +2,9 @@
 
 This project automates EC2 cost optimization using AWS Lambda, CloudWatch Scheduler, IAM Roles, and local CLI scripts.
 
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/1110ef21-ec09-431b-83a1-102b1bb609cb" />
+
+
 ## Features
 - Automatically stop EC2 instances after business hours
 - Automatically start EC2 instances during working hours
